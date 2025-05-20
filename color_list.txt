@@ -1,0 +1,14 @@
+"#ffffff" font colour
+"#ff00ff" opera rose
+"#00ffff" turquoise blue
+"#ffff00" yellow
+"#ff0000" red
+"#00ff00" green
+"#0000ff" blue
+"#000000" black
+"#ffa500" orange
+"#ffae19" orange medium
+"#ffb732" orange light
+"#7f0000" red dark
+"#ff4c4c" red light
+"#40e0d0" turquoise
