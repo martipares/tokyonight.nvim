@@ -6,13 +6,13 @@
 
 [:<PROFILE_UUID>]
 background-color='rgb(34, 36, 54)'
-cursor-background-color='rgb(200, 211, 245)'
+cursor-background-color='rgb(255, 255, 255)'
 cursor-colors-set=true
 cursor-foreground-color='rgb(34, 36, 54)'
-foreground-color='rgb(200, 211, 245)'
-highlight-background-color='rgb(200, 211, 245)'
+foreground-color='rgb(255, 255, 255)'
+highlight-background-color='rgb(255, 255, 255)'
 highlight-colors-set=true
 highlight-foreground-color='rgb(34, 36, 54)'
-palette=['rgb(68, 74, 115)', 'rgb(255, 117, 127)', 'rgb(195, 232, 141)', 'rgb(255, 199, 119)', 'rgb(130, 170, 255)', 'rgb(192, 153, 255)', 'rgb(134, 225, 252)', 'rgb(200, 211, 245)', 'rgb(68, 74, 115)', 'rgb(255, 117, 127)', 'rgb(195, 232, 141)', 'rgb(255, 199, 119)', 'rgb(130, 170, 255)', 'rgb(192, 153, 255)', 'rgb(134, 225, 252)', 'rgb(200, 211, 245)']
+palette=['rgb(68, 74, 115)', 'rgb(255, 76, 76)', 'rgb(205, 173, 0)', 'rgb(255, 255, 0)', 'rgb(130, 170, 255)', 'rgb(255, 0, 124)', 'rgb(0, 255, 255)', 'rgb(255, 255, 255)', 'rgb(68, 74, 115)', 'rgb(255, 76, 76)', 'rgb(205, 173, 0)', 'rgb(255, 255, 0)', 'rgb(130, 170, 255)', 'rgb(255, 0, 124)', 'rgb(0, 255, 255)', 'rgb(255, 255, 255)']
 use-theme-colors=false
 visible-name='Tokyo Night Moon'

@@ -1,23 +1,23 @@
 ! TokyoNight colors for Xresources
 
 *background: #24283b
-*foreground: #c0caf5
+*foreground: #ffffff
 
 *color0: #1d202f
-*color1: #f7768e
-*color2: #9ece6a
-*color3: #e0af68
+*color1: #ff4c4c
+*color2: #cdad00
+*color3: #ffff00
 *color4: #7aa2f7
-*color5: #bb9af7
-*color6: #7dcfff
+*color5: #ff007c
+*color6: #00ffff
 *color7: #a9b1d6
 
 *color8: #414868
-*color9: #f7768e
-*color10: #9ece6a
-*color11: #e0af68
+*color9: #ff4c4c
+*color10: #cdad00
+*color11: #ffff00
 *color12: #7aa2f7
-*color13: #bb9af7
-*color14: #7dcfff
-*color15: #c0caf5
+*color13: #ff007c
+*color14: #00ffff
+*color15: #ffffff
  

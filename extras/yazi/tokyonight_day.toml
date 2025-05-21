@@ -9,24 +9,24 @@ hovered         = { bg = "#c4c8da" }
 preview_hovered = { bg = "#c4c8da" }
 
 # Find
-find_keyword  = { fg = "#d0d5e3", bg = "#b15c00", bold = true }
+find_keyword  = { fg = "#d2d3d7", bg = "#9e6400", bold = true }
 find_position = { fg = "#07879d", bg = "#cbd9e0", bold = true }
 
 # Marker
-marker_copied   = { fg = "#387068", bg = "#387068" }
-marker_cut      = { fg = "#f52a65", bg = "#f52a65" }
-marker_marked   = { fg = "#9854f1", bg = "#9854f1" }
+marker_copied   = { fg = "#008a8a", bg = "#008a8a" }
+marker_cut      = { fg = "#c50000", bg = "#c50000" }
+marker_marked   = { fg = "#d20065", bg = "#d20065" }
 marker_selected = { fg = "#2e7de9", bg = "#2e7de9" }
 
 # Tab
-tab_active   = { fg = "#3760bf", bg = "#c4c8da" }
+tab_active   = { fg = "#474747", bg = "#c4c8da" }
 tab_inactive = { fg = "#a8aecb", bg = "#e1e2e7" }
 tab_width    = 1
 
 # Count
-count_copied   = { fg = "#3760bf", bg = "#38919f" }
-count_cut      = { fg = "#3760bf", bg = "#c64343" }
-count_selected = { fg = "#3760bf", bg = "#7890dd" }
+count_copied   = { fg = "#474747", bg = "#00934a" }
+count_cut      = { fg = "#474747", bg = "#ff9d9d" }
+count_selected = { fg = "#474747", bg = "#7890dd" }
 
 # Border
 border_symbol = "│"
@@ -36,11 +36,11 @@ border_style  = { fg = "#4094a3" }
 normal_main = { fg = "#b4b5b9", bg = "#2e7de9", bold = true }
 normal_alt  = { fg = "#2e7de9", bg = "#a8aecb" }
 
-select_main = { fg = "#b4b5b9", bg = "#9854f1", bold = true }
-select_alt  = { fg = "#9854f1", bg = "#a8aecb" }
+select_main = { fg = "#b4b5b9", bg = "#d20065", bold = true }
+select_alt  = { fg = "#d20065", bg = "#a8aecb" }
 
-unset_main  = { fg = "#b4b5b9", bg = "#7847bd", bold = true }
-unset_alt   = { fg = "#7847bd", bg = "#a8aecb" }
+unset_main  = { fg = "#b4b5b9", bg = "#a02cff", bold = true }
+unset_alt   = { fg = "#a02cff", bg = "#a8aecb" }
 
 [status]
 separator_open    = ""
@@ -50,32 +50,32 @@ separator_close   = ""
 # Progress
 progress_label  = { fg = "#6172b0", bold = true }
 progress_normal = { fg = "#e1e2e7" }
-progress_error  = { fg = "#f52a65" }
+progress_error  = { fg = "#c50000" }
 
 # Permissions
 perm_type  = { fg = "#2e7de9" }
-perm_read  = { fg = "#8c6c3e" }
-perm_write = { fg = "#f52a65" }
-perm_exec  = { fg = "#587539" }
+perm_read  = { fg = "#4e4e00" }
+perm_write = { fg = "#c50000" }
+perm_exec  = { fg = "#8c7500" }
 perm_sep   = { fg = "#a1a6c5" }
 
 [pick]
 border   = { fg = "#4094a3" }
-active   = { fg = "#3760bf",  bg = "#b7c1e3" }
-inactive = { fg = "#3760bf" }
+active   = { fg = "#474747",  bg = "#b7c1e3" }
+inactive = { fg = "#474747" }
 
 # Input
 [input]
 border   = { fg = "#07879d" }
 title    = { fg = "#07879d" }
-value    = { fg = "#7847bd" }
+value    = { fg = "#a02cff" }
 selected = { bg = "#b7c1e3" }
 
 # Completion
 [completion]
 border   = { fg = "#07879d" }
-active   = { fg = "#3760bf", bg = "#b7c1e3" }
-inactive = { fg = "#3760bf" }
+active   = { fg = "#474747", bg = "#b7c1e3" }
+inactive = { fg = "#474747" }
 
 icon_file    = ""
 icon_folder  = ""
@@ -85,15 +85,15 @@ icon_command = ""
 [tasks]
 border  = { fg = "#4094a3" }
 title   = { fg = "#4094a3" }
-hovered = { fg = "#3760bf", bg="#b7c1e3" }
+hovered = { fg = "#474747", bg="#b7c1e3" }
 
 # Which
 [which]
 cols            = 3
-mask            = { bg = "#d0d5e3" }
-cand            = { fg = "#007197" }
+mask            = { bg = "#d2d3d7" }
+cand            = { fg = "#006060" }
 rest            = { fg = "#2e7de9" }
-desc            = { fg = "#9854f1" }
+desc            = { fg = "#d20065" }
 separator       = " ➜ "
 separator_style = { fg = "#848cb5" }
 
@@ -115,8 +115,8 @@ title   = { fg = "#4094a3" }
 # Notify
 [notify]
 title_info  = { fg = "#07879d" }
-title_warn  = { fg = "#8c6c3e" }
-title_error = { fg = "#c64343" }
+title_warn  = { fg = "#4e4e00" }
+title_error = { fg = "#ff9d9d" }
 
 icon_error = ""
 icon_warn = ""
@@ -124,33 +124,33 @@ icon_info = ""
 
 # Help
 [help]
-on      = { fg = "#587539" }
-run     = { fg = "#9854f1" }
+on      = { fg = "#8c7500" }
+run     = { fg = "#d20065" }
 hovered = { bg = "#c4c8da" }
-footer  = { fg = "#3760bf", bg = "#e1e2e7" }
+footer  = { fg = "#474747", bg = "#e1e2e7" }
 
 [filetype]
 
 rules = [
 	# Images
-	{ mime = "image/*", fg = "#8c6c3e" },
+	{ mime = "image/*", fg = "#4e4e00" },
 
 	# Media
-	{ mime = "{audio,video}/*", fg = "#9854f1" },
+	{ mime = "{audio,video}/*", fg = "#d20065" },
 
 	# Archives
-	{ mime = "application/*zip", fg = "#f52a65" },
-	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#f52a65" },
+	{ mime = "application/*zip", fg = "#c50000" },
+	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#c50000" },
 
 	# Documents
-	{ mime = "application/{pdf,doc,rtf,vnd.*}", fg = "#007197" },
+	{ mime = "application/{pdf,doc,rtf,vnd.*}", fg = "#006060" },
 
 	# Empty files
-	# { mime = "inode/x-empty", fg = "#f52a65" },
+	# { mime = "inode/x-empty", fg = "#c50000" },
 
 	# Special files
-	{ name = "*", is = "orphan", bg = "#f52a65" },
-	{ name = "*", is = "exec"  , fg = "#587539" },
+	{ name = "*", is = "orphan", bg = "#c50000" },
+	{ name = "*", is = "exec"  , fg = "#8c7500" },
 
 	# Fallback
 	{ name = "*/", fg = "#2e7de9" }

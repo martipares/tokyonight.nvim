@@ -4,19 +4,19 @@
 
 themes {
     tokyonight_moon {
-        fg "#c8d3f5"
+        fg "#ffffff"
         bg "#2f334d"
         // Black should match the terminal background color
         // This ensures the top and bottom bars are transparent
         black "#222436"
-        red "#ff757f"
-        green "#c3e88d"
-        yellow "#ffc777"
+        red "#ff4c4c"
+        green "#cdad00"
+        yellow "#ffff00"
         blue "#82aaff"
-        magenta "#c099ff"
-        cyan "#86e1fc"
+        magenta "#ff007c"
+        cyan "#00ffff"
         white "#828bb8"
-        orange "#ff966c"
+        orange "#ffa500"
     }
 }
 

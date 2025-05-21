@@ -2,25 +2,25 @@
     "name": "Tokyo Night",
     "comment": "",
     "use-theme-colors": false,
-    "foreground-color": "#c0caf5",
+    "foreground-color": "#ffffff",
     "background-color": "#1a1b26",
     "palette": [
         "#15161e",
-        "#f7768e",
-        "#9ece6a",
-        "#e0af68",
+        "#ff4c4c",
+        "#cdad00",
+        "#ffff00",
         "#7aa2f7",
-        "#bb9af7",
-        "#7dcfff",
+        "#ff007c",
+        "#00ffff",
         "#a9b1d6",
         "#414868",
-        "#f7768e",
-        "#9ece6a",
-        "#e0af68",
+        "#ff4c4c",
+        "#cdad00",
+        "#ffff00",
         "#7aa2f7",
-        "#bb9af7",
-        "#7dcfff",
-        "#c0caf5"
+        "#ff007c",
+        "#00ffff",
+        "#ffffff"
     ]
 }
   
