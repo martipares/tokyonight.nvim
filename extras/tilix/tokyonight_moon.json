@@ -2,25 +2,25 @@
     "name": "Tokyo Night Moon",
     "comment": "",
     "use-theme-colors": false,
-    "foreground-color": "#c8d3f5",
+    "foreground-color": "#ffffff",
     "background-color": "#222436",
     "palette": [
         "#1b1d2b",
-        "#ff757f",
-        "#c3e88d",
-        "#ffc777",
+        "#ff3c3c",
+        "#cdad00",
+        "#ffff00",
         "#82aaff",
-        "#c099ff",
-        "#86e1fc",
+        "#ff007c",
+        "#00ffff",
         "#828bb8",
         "#444a73",
-        "#ff757f",
-        "#c3e88d",
-        "#ffc777",
+        "#ff3c3c",
+        "#cdad00",
+        "#ffff00",
         "#82aaff",
-        "#c099ff",
-        "#86e1fc",
-        "#c8d3f5"
+        "#ff007c",
+        "#00ffff",
+        "#ffffff"
     ]
 }
   
