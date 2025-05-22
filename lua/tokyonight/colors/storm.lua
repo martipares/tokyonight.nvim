@@ -33,7 +33,7 @@ local ret = {
   git = {
     add = "#005500",
     change = "#0000ff",
-    delete = "#a00000",
+    delete = "#aa0000",
   },
 }
 return ret
