@@ -9,7 +9,11 @@ themes {
         // Black should match the terminal background color
         // This ensures the top and bottom bars are transparent
         black "#1a1b26"
+<<<<<<< HEAD
         red "#ff4c4c"
+=======
+        red "#ff3c3c"
+>>>>>>> custom_colors
         green "#cdad00"
         yellow "#ffff00"
         blue "#7aa2f7"

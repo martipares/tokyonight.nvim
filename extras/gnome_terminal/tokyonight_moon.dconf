@@ -13,6 +13,10 @@ foreground-color='rgb(255, 255, 255)'
 highlight-background-color='rgb(255, 255, 255)'
 highlight-colors-set=true
 highlight-foreground-color='rgb(34, 36, 54)'
+<<<<<<< HEAD
 palette=['rgb(68, 74, 115)', 'rgb(255, 76, 76)', 'rgb(205, 173, 0)', 'rgb(255, 255, 0)', 'rgb(130, 170, 255)', 'rgb(255, 0, 124)', 'rgb(0, 255, 255)', 'rgb(255, 255, 255)', 'rgb(68, 74, 115)', 'rgb(255, 76, 76)', 'rgb(205, 173, 0)', 'rgb(255, 255, 0)', 'rgb(130, 170, 255)', 'rgb(255, 0, 124)', 'rgb(0, 255, 255)', 'rgb(255, 255, 255)']
+=======
+palette=['rgb(68, 74, 115)', 'rgb(255, 60, 60)', 'rgb(205, 173, 0)', 'rgb(255, 255, 0)', 'rgb(130, 170, 255)', 'rgb(255, 0, 124)', 'rgb(0, 255, 255)', 'rgb(255, 255, 255)', 'rgb(68, 74, 115)', 'rgb(255, 60, 60)', 'rgb(205, 173, 0)', 'rgb(255, 255, 0)', 'rgb(130, 170, 255)', 'rgb(255, 0, 124)', 'rgb(0, 255, 255)', 'rgb(255, 255, 255)']
+>>>>>>> custom_colors
 use-theme-colors=false
 visible-name='Tokyo Night Moon'

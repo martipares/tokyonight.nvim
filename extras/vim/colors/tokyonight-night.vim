@@ -71,15 +71,24 @@ hi GitGutterAdd guibg=NONE guifg=#005500
 hi GitGutterAddLineNr guibg=NONE guifg=#005500
 hi GitGutterChange guibg=NONE guifg=#0000ff
 hi GitGutterChangeLineNr guibg=NONE guifg=#0000ff
+<<<<<<< HEAD
 hi GitGutterDelete guibg=NONE guifg=#a00000
 hi GitGutterDeleteLineNr guibg=NONE guifg=#a00000
+=======
+hi GitGutterDelete guibg=NONE guifg=#aa0000
+hi GitGutterDeleteLineNr guibg=NONE guifg=#aa0000
+>>>>>>> custom_colors
 hi GlyphPalette1 guibg=NONE guifg=#7f0000
 hi GlyphPalette2 guibg=NONE guifg=#cdad00
 hi GlyphPalette3 guibg=NONE guifg=#ffff00
 hi GlyphPalette4 guibg=NONE guifg=#7aa2f7
 hi GlyphPalette6 guibg=NONE guifg=#00c0c0
 hi GlyphPalette7 guibg=NONE guifg=#ffffff
+<<<<<<< HEAD
 hi GlyphPalette9 guibg=NONE guifg=#ff4c4c
+=======
+hi GlyphPalette9 guibg=NONE guifg=#ff3c3c
+>>>>>>> custom_colors
 hi Identifier guibg=NONE guifg=#ff007c
 hi IlluminatedWordRead guibg=#3b4261
 hi IlluminatedWordText guibg=#3b4261
@@ -102,11 +111,19 @@ hi MiniAnimateCursor gui=nocombine guibg=NONE
 hi MiniCompletionActiveParameter gui=underline guibg=NONE
 hi MiniCursorword guibg=#3b4261
 hi MiniCursorwordCurrent guibg=#3b4261
+<<<<<<< HEAD
 hi MiniDepsTitleError guibg=#a00000 guifg=#15161e
 hi MiniDepsTitleUpdate guibg=#005500 guifg=#15161e
 hi MiniDiffSignAdd guibg=NONE guifg=#005500
 hi MiniDiffSignChange guibg=NONE guifg=#0000ff
 hi MiniDiffSignDelete guibg=NONE guifg=#a00000
+=======
+hi MiniDepsTitleError guibg=#aa0000 guifg=#15161e
+hi MiniDepsTitleUpdate guibg=#005500 guifg=#15161e
+hi MiniDiffSignAdd guibg=NONE guifg=#005500
+hi MiniDiffSignChange guibg=NONE guifg=#0000ff
+hi MiniDiffSignDelete guibg=NONE guifg=#aa0000
+>>>>>>> custom_colors
 hi MiniFilesFile guibg=NONE guifg=#ffffff
 hi MiniFilesTitleFocused gui=bold guibg=#16161e guifg=#27a1b9
 hi MiniHipatternsFixme gui=bold guibg=#7f0000 guifg=#15161e
@@ -120,7 +137,11 @@ hi MiniIconsGreen guibg=NONE guifg=#cdad00
 hi MiniIconsGrey guibg=NONE guifg=#ffffff
 hi MiniIconsOrange guibg=NONE guifg=#ffa500
 hi MiniIconsPurple guibg=NONE guifg=#a64cff
+<<<<<<< HEAD
 hi MiniIconsRed guibg=NONE guifg=#ff4c4c
+=======
+hi MiniIconsRed guibg=NONE guifg=#ff3c3c
+>>>>>>> custom_colors
 hi MiniIconsYellow guibg=NONE guifg=#ffff00
 hi MiniIndentscopePrefix gui=nocombine guibg=NONE
 hi MiniIndentscopeSymbol gui=nocombine guibg=NONE guifg=#2ac3de
@@ -147,7 +168,11 @@ hi MiniStatuslineModeCommand gui=bold guibg=#ffff00 guifg=#15161e
 hi MiniStatuslineModeInsert gui=bold guibg=#cdad00 guifg=#15161e
 hi MiniStatuslineModeNormal gui=bold guibg=#7aa2f7 guifg=#15161e
 hi MiniStatuslineModeOther gui=bold guibg=#70f0e0 guifg=#15161e
+<<<<<<< HEAD
 hi MiniStatuslineModeReplace gui=bold guibg=#ff4c4c guifg=#15161e
+=======
+hi MiniStatuslineModeReplace gui=bold guibg=#ff3c3c guifg=#15161e
+>>>>>>> custom_colors
 hi MiniStatuslineModeVisual gui=bold guibg=#ff007c guifg=#15161e
 hi MiniSurround guibg=#ffa500 guifg=#15161e
 hi MiniTablineCurrent guibg=#3b4261 guifg=#ffffff
@@ -159,16 +184,26 @@ hi MiniTablineModifiedVisible guibg=#16161e guifg=#ffff00
 hi MiniTablineTabpagesection guibg=#3b4261 guifg=NONE
 hi MiniTablineVisible guibg=#16161e guifg=#ffffff
 hi MiniTestEmphasis gui=bold guibg=NONE
+<<<<<<< HEAD
 hi MiniTestFail gui=bold guibg=NONE guifg=#ff4c4c
 hi MiniTestPass gui=bold guibg=NONE guifg=#cdad00
 hi MiniTrailspace guibg=#ff4c4c
+=======
+hi MiniTestFail gui=bold guibg=NONE guifg=#ff3c3c
+hi MiniTestPass gui=bold guibg=NONE guifg=#cdad00
+hi MiniTrailspace guibg=#ff3c3c
+>>>>>>> custom_colors
 hi ModeMsg gui=bold guibg=NONE guifg=#a9b1d6
 hi MoreMsg guibg=NONE guifg=#7aa2f7
 hi MsgArea guibg=NONE guifg=#a9b1d6
 hi NeogitBranch guibg=NONE guifg=#ff007c
 hi NeogitDiffAddHighlight guibg=#16342f guifg=#005500
 hi NeogitDiffContextHighlight guibg=#2b2f44 guifg=#a9b1d6
+<<<<<<< HEAD
 hi NeogitDiffDeleteHighlight guibg=#291720 guifg=#a00000
+=======
+hi NeogitDiffDeleteHighlight guibg=#291720 guifg=#aa0000
+>>>>>>> custom_colors
 hi NeogitHunkHeader guibg=#292e42 guifg=#ffffff
 hi NeogitHunkHeaderHighlight guibg=#3b4261 guifg=#7aa2f7
 hi NeogitRemote guibg=NONE guifg=#a64cff
@@ -176,7 +211,11 @@ hi NeotestAdapterName gui=bold guibg=NONE guifg=#a64cff
 hi NeotestBorder guibg=NONE guifg=#7aa2f7
 hi NeotestDir guibg=NONE guifg=#7aa2f7
 hi NeotestExpandMarker guibg=NONE guifg=#a9b1d6
+<<<<<<< HEAD
 hi NeotestFailed guibg=NONE guifg=#ff4c4c
+=======
+hi NeotestFailed guibg=NONE guifg=#ff3c3c
+>>>>>>> custom_colors
 hi NeotestFile guibg=NONE guifg=#70f0e0
 hi NeotestFocused guibg=NONE guifg=#ffff00
 hi NeotestIndent guibg=NONE guifg=#a9b1d6
@@ -218,7 +257,11 @@ hi Statement guibg=NONE guifg=#ff007c
 hi StatusLine guibg=#16161e guifg=#a9b1d6
 hi StatusLineNC guibg=#16161e guifg=#3b4261
 hi String guibg=NONE guifg=#cdad00
+<<<<<<< HEAD
 hi Substitute guibg=#ff4c4c guifg=#15161e
+=======
+hi Substitute guibg=#ff3c3c guifg=#15161e
+>>>>>>> custom_colors
 hi TabLine guibg=#16161e guifg=#3b4261
 hi TabLineFill guibg=#15161e
 hi TabLineSel guibg=#7aa2f7 guifg=#15161e
@@ -235,7 +278,11 @@ hi VimwikiHeader4 gui=bold guibg=NONE guifg=#70f0e0
 hi VimwikiHeader5 gui=bold guibg=NONE guifg=#ff007c
 hi VimwikiHeader6 gui=bold guibg=NONE guifg=#a64cff
 hi VimwikiHeader7 gui=bold guibg=NONE guifg=#ffa500
+<<<<<<< HEAD
 hi VimwikiHeader8 gui=bold guibg=NONE guifg=#ff4c4c
+=======
+hi VimwikiHeader8 gui=bold guibg=NONE guifg=#ff3c3c
+>>>>>>> custom_colors
 hi VimwikiHeaderChar guibg=NONE guifg=#ffff00
 hi VimwikiLink guibg=NONE guifg=#7aa2f7
 hi VimwikiList guibg=NONE guifg=#ffa500
@@ -256,7 +303,11 @@ hi diffIndexLine guibg=NONE guifg=#ff007c
 hi diffLine guibg=NONE guifg=#565f89
 hi diffNewFile guibg=#16342f guifg=#2ac3de
 hi diffOldFile guibg=#291720 guifg=#2ac3de
+<<<<<<< HEAD
 hi diffRemoved guibg=#291720 guifg=#a00000
+=======
+hi diffRemoved guibg=#291720 guifg=#aa0000
+>>>>>>> custom_colors
 hi healthError guibg=NONE guifg=#7f0000
 hi healthSuccess guibg=NONE guifg=#00c0c0
 hi healthWarning guibg=NONE guifg=#ffff00

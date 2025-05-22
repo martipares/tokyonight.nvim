@@ -14,7 +14,11 @@ find_position = { fg = "#07879d", bg = "#cbd9e0", bold = true }
 
 # Marker
 marker_copied   = { fg = "#008787", bg = "#008787" }
+<<<<<<< HEAD
 marker_cut      = { fg = "#c50000", bg = "#c50000" }
+=======
+marker_cut      = { fg = "#cf0000", bg = "#cf0000" }
+>>>>>>> custom_colors
 marker_marked   = { fg = "#d20065", bg = "#d20065" }
 marker_selected = { fg = "#2e7de9", bg = "#2e7de9" }
 
@@ -50,12 +54,20 @@ separator_close   = ""
 # Progress
 progress_label  = { fg = "#6172b0", bold = true }
 progress_normal = { fg = "#e1e2e7" }
+<<<<<<< HEAD
 progress_error  = { fg = "#c50000" }
+=======
+progress_error  = { fg = "#cf0000" }
+>>>>>>> custom_colors
 
 # Permissions
 perm_type  = { fg = "#2e7de9" }
 perm_read  = { fg = "#4e4e00" }
+<<<<<<< HEAD
 perm_write = { fg = "#c50000" }
+=======
+perm_write = { fg = "#cf0000" }
+>>>>>>> custom_colors
 perm_exec  = { fg = "#8c7500" }
 perm_sep   = { fg = "#a1a6c5" }
 
@@ -139,17 +151,29 @@ rules = [
 	{ mime = "{audio,video}/*", fg = "#d20065" },
 
 	# Archives
+<<<<<<< HEAD
 	{ mime = "application/*zip", fg = "#c50000" },
 	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#c50000" },
+=======
+	{ mime = "application/*zip", fg = "#cf0000" },
+	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#cf0000" },
+>>>>>>> custom_colors
 
 	# Documents
 	{ mime = "application/{pdf,doc,rtf,vnd.*}", fg = "#006060" },
 
 	# Empty files
+<<<<<<< HEAD
 	# { mime = "inode/x-empty", fg = "#c50000" },
 
 	# Special files
 	{ name = "*", is = "orphan", bg = "#c50000" },
+=======
+	# { mime = "inode/x-empty", fg = "#cf0000" },
+
+	# Special files
+	{ name = "*", is = "orphan", bg = "#cf0000" },
+>>>>>>> custom_colors
 	{ name = "*", is = "exec"  , fg = "#8c7500" },
 
 	# Fallback

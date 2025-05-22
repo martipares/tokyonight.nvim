@@ -9,7 +9,11 @@
     "brightCyan": "#00ffff",
     "brightGreen": "#cdad00",
     "brightPurple": "#a64cff",
+<<<<<<< HEAD
     "brightRed": "#ff4c4c",
+=======
+    "brightRed": "#ff3c3c",
+>>>>>>> custom_colors
     "brightWhite": "#ffffff",
     "brightYellow": "#ffff00",
     "cursorColor": "#ffffff",
@@ -18,7 +22,11 @@
     "green": "#cdad00",
     "name": "Tokyo Night",
     "purple": "#ff007c",
+<<<<<<< HEAD
     "red": "#ff4c4c",
+=======
+    "red": "#ff3c3c",
+>>>>>>> custom_colors
     "selectionBackground": "#283457",
     "white": "#a9b1d6",
     "yellow": "#ffff00"

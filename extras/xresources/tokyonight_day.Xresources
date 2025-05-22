@@ -4,7 +4,11 @@
 *foreground: #474747
 
 *color0: #b4b5b9
+<<<<<<< HEAD
 *color1: #c50000
+=======
+*color1: #cf0000
+>>>>>>> custom_colors
 *color2: #8c7500
 *color3: #4e4e00
 *color4: #2e7de9
@@ -13,7 +17,11 @@
 *color7: #6172b0
 
 *color8: #a1a6c5
+<<<<<<< HEAD
 *color9: #c50000
+=======
+*color9: #cf0000
+>>>>>>> custom_colors
 *color10: #8c7500
 *color11: #4e4e00
 *color12: #2e7de9

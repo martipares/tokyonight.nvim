@@ -16,7 +16,11 @@ constructor = { fg = "#2ac3de" }
 "diagnostic.warning" = { underline = { style = "curl" } }
 "diff.delta" = { bg = "#1f2231", fg = "#0000ff" }
 "diff.delta.moved" = { fg = "#7aa2f7" }
+<<<<<<< HEAD
 "diff.minus" = { bg = "#291720", fg = "#a00000" }
+=======
+"diff.minus" = { bg = "#291720", fg = "#aa0000" }
+>>>>>>> custom_colors
 "diff.plus" = { bg = "#16342f", fg = "#005500" }
 error = { fg = "#7f0000" }
 function = { fg = "#7aa2f7" }
@@ -82,7 +86,11 @@ type = { fg = "#2ac3de" }
 "ui.virtual.inlay-hint" = { bg = "#233039", fg = "#70f0e0" }
 "ui.window" = { fg = "#15161e", modifiers = ["bold"] }
 variable = { fg = "#ffffff" }
+<<<<<<< HEAD
 "variable.builtin" = { fg = "#ff4c4c" }
+=======
+"variable.builtin" = { fg = "#ff3c3c" }
+>>>>>>> custom_colors
 "variable.other.member" = { fg = "#00c0c0" }
 "variable.parameter" = { fg = "#ffff00" }
 warning = { fg = "#ffff00" }
@@ -124,7 +132,11 @@ fg_gutter = "#3b4261"
 fg_sidebar = "#a9b1d6"
 "git.add" = "#005500"
 "git.change" = "#0000ff"
+<<<<<<< HEAD
 "git.delete" = "#a00000"
+=======
+"git.delete" = "#aa0000"
+>>>>>>> custom_colors
 "git.ignore" = "#545c7e"
 green = "#cdad00"
 green1 = "#00c0c0"
@@ -142,8 +154,13 @@ rainbow = "#7aa2f7"
 "rainbow.5" = "#ff007c"
 "rainbow.6" = "#a64cff"
 "rainbow.7" = "#ffa500"
+<<<<<<< HEAD
 "rainbow.8" = "#ff4c4c"
 red = "#ff4c4c"
+=======
+"rainbow.8" = "#ff3c3c"
+red = "#ff3c3c"
+>>>>>>> custom_colors
 red1 = "#7f0000"
 teal = "#70f0e0"
 "terminal.black" = "#15161e"
@@ -156,8 +173,13 @@ teal = "#70f0e0"
 "terminal.green_bright" = "#ddba00"
 "terminal.magenta" = "#ff007c"
 "terminal.magenta_bright" = "#ff498a"
+<<<<<<< HEAD
 "terminal.red" = "#ff4c4c"
 "terminal.red_bright" = "#ff6a6a"
+=======
+"terminal.red" = "#ff3c3c"
+"terminal.red_bright" = "#ff5f5f"
+>>>>>>> custom_colors
 "terminal.white" = "#a9b1d6"
 "terminal.white_bright" = "#ffffff"
 "terminal.yellow" = "#ffff00"

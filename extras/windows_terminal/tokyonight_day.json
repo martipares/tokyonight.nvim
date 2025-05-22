@@ -9,7 +9,11 @@
     "brightCyan": "#006060",
     "brightGreen": "#8c7500",
     "brightPurple": "#a02cff",
+<<<<<<< HEAD
     "brightRed": "#c50000",
+=======
+    "brightRed": "#cf0000",
+>>>>>>> custom_colors
     "brightWhite": "#474747",
     "brightYellow": "#4e4e00",
     "cursorColor": "#474747",
@@ -18,7 +22,11 @@
     "green": "#8c7500",
     "name": "Tokyo Night Day",
     "purple": "#d20065",
+<<<<<<< HEAD
     "red": "#c50000",
+=======
+    "red": "#cf0000",
+>>>>>>> custom_colors
     "selectionBackground": "#b7c1e3",
     "white": "#6172b0",
     "yellow": "#4e4e00"

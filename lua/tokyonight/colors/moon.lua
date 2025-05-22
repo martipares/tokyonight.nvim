@@ -25,7 +25,7 @@ return {
   magenta2 = "#ff00ff",
   orange = "#ffa500",
   purple = "#a64cff",
-  red = "#ff4c4c",
+  red = "#ff3c3c",
   red1 = "#7f0000",
   teal = "#70f0e0",
   terminal_black = "#444a73",
@@ -33,6 +33,6 @@ return {
   git = {
     add = "#005500",
     change = "#0000ff",
-    delete = "#a00000",
+    delete = "#aa0000",
   },
 }

@@ -3,7 +3,11 @@
   minus-non-emph-style          = syntax "#291720"
   minus-emph-style              = syntax "#470f15"
   minus-empty-line-marker-style = syntax "#291720"
+<<<<<<< HEAD
   line-numbers-minus-style      = "#a00000"
+=======
+  line-numbers-minus-style      = "#aa0000"
+>>>>>>> custom_colors
   plus-style                    = syntax "#16342f"
   plus-non-emph-style           = syntax "#16342f"
   plus-emph-style               = syntax "#0e6540"

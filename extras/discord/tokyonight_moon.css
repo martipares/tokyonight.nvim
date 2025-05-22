@@ -8,7 +8,11 @@
   --text-link-low-saturation: #89ddff;
   --text-positive: #70f0e0;
   --text-warning: #ffff00;
+<<<<<<< HEAD
   --text-danger: #ff4c4c;
+=======
+  --text-danger: #ff3c3c;
+>>>>>>> custom_colors
   --text-brand: #82aaff;
   --background-primary: #222436;
   --bg-base-primary: #222436;
@@ -38,8 +42,13 @@
   --info-warning-background: #ffff0026;
   --info-warning-foreground: #ffff00;
   --info-warning-text: #ffffff;
+<<<<<<< HEAD
   --info-danger-background:#ff4c4c26;
   --info-danger-foreground: #ff4c4c;
+=======
+  --info-danger-background:#ff3c3c26;
+  --info-danger-foreground: #ff3c3c;
+>>>>>>> custom_colors
   --info-danger-text: #ffffff;
   --info-help-background: #89ddff26;
   --info-help-foreground: #0db9d7;
@@ -48,23 +57,38 @@
   --status-positive-text: #222436;
   --status-warning-background: #ffff00;
   --status-warning-text: #222436;
+<<<<<<< HEAD
   --status-danger-background: #ff4c4c;
   --status-danger-text: #222436;
   --status-danger: #ff4c4c;
+=======
+  --status-danger-background: #ff3c3c;
+  --status-danger-text: #222436;
+  --status-danger: #ff3c3c;
+>>>>>>> custom_colors
   --status-positive: #70f0e0;
   --status-warning: #ffff00;
   --status-yellow-400: #ffff00;
   --status-green-600: #70f0e0;
   --primary-dark-600: #222436;
   --status-yellow-560: #ffff00;
+<<<<<<< HEAD
   --status-red-500: #ff4c4c;
   --status-red-530: #ff4c4c;
+=======
+  --status-red-500: #ff3c3c;
+  --status-red-530: #ff3c3c;
+>>>>>>> custom_colors
   --status-yellow-500: #ffff00;
   --black-500: #2f334d;
   --green-360: #70f0e0;
   --yellow-360: #ffff00;
   --yellow-300: #ffff00;
+<<<<<<< HEAD
   --red-400: #ff4c4c;
+=======
+  --red-400: #ff3c3c;
+>>>>>>> custom_colors
   --primary-100: #737aa2;
   --primary-300: #737aa2;
   --primary-400: #737aa2;
@@ -84,9 +108,15 @@
   --premium-perk-orange: #ffa500;
   --status-green-400: #70f0e0;
   --button-danger-background: #7f0000;
+<<<<<<< HEAD
   --button-danger-background-hover: #ff4c4c;
   --button-danger-background-active: #89ddff;
   --button-danger-background-disabled: #ff4c4c;
+=======
+  --button-danger-background-hover: #ff3c3c;
+  --button-danger-background-active: #89ddff;
+  --button-danger-background-disabled: #ff3c3c;
+>>>>>>> custom_colors
   --button-positive-background: #70f0e0;
   --button-positive-background-hover: #00c0c0;
   --button-positive-background-active: #00c060;
@@ -98,9 +128,15 @@
   --button-outline-danger-text: #ffffff;
   --button-outline-danger-border: #7f0000;
   --button-outline-danger-background: transparent;
+<<<<<<< HEAD
   --button-outline-danger-background-hover: #ff4c4c;
   --button-outline-danger-text-hover: #222436;
   --button-outline-danger-border-hover: #ff4c4c;
+=======
+  --button-outline-danger-background-hover: #ff3c3c;
+  --button-outline-danger-text-hover: #222436;
+  --button-outline-danger-border-hover: #ff3c3c;
+>>>>>>> custom_colors
   --button-outline-danger-background-active: #7f0000;
   --button-outline-danger-text-active: #222436;
   --button-outline-danger-border-active: #7f0000;
@@ -206,7 +242,11 @@ rect[mask="url(#svg-mask-status-offline)"] {
   /* ---- Default Colors -- */
   --background: var(--background-secondary);
   --text-default: #828bb8;
+<<<<<<< HEAD
   --color-1: #ff4c4c;
+=======
+  --color-1: #ff3c3c;
+>>>>>>> custom_colors
   --color-2: #ffa500;
   --color-3: #ffff00;
   --color-4: #cdad00;

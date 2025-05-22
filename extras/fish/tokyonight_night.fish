@@ -2,7 +2,11 @@
     set -l foreground ffffff
     set -l selection 283457
     set -l comment 565f89
+<<<<<<< HEAD
     set -l red ff4c4c
+=======
+    set -l red ff3c3c
+>>>>>>> custom_colors
     set -l orange ffa500
     set -l yellow ffff00
     set -l green cdad00

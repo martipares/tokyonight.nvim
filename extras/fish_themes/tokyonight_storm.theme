@@ -8,7 +8,11 @@
     fish_color_redirection ffffff
     fish_color_end ffa500
     fish_color_option ff007c
+<<<<<<< HEAD
     fish_color_error ff4c4c
+=======
+    fish_color_error ff3c3c
+>>>>>>> custom_colors
     fish_color_param a64cff
     fish_color_comment 565f89
     fish_color_selection --background=2e3c64

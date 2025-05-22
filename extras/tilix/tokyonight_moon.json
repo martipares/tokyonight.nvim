@@ -6,7 +6,11 @@
     "background-color": "#222436",
     "palette": [
         "#1b1d2b",
+<<<<<<< HEAD
         "#ff4c4c",
+=======
+        "#ff3c3c",
+>>>>>>> custom_colors
         "#cdad00",
         "#ffff00",
         "#82aaff",
@@ -14,7 +18,11 @@
         "#00ffff",
         "#828bb8",
         "#444a73",
+<<<<<<< HEAD
         "#ff4c4c",
+=======
+        "#ff3c3c",
+>>>>>>> custom_colors
         "#cdad00",
         "#ffff00",
         "#82aaff",

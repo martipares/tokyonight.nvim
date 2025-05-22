@@ -4,7 +4,11 @@ name = "Tokyo Night Day"
 background = "#d2d3d7"
 foreground = "#6172b0"
 black = "#a1a6c5"
+<<<<<<< HEAD
 red = "#c50000"
+=======
+red = "#cf0000"
+>>>>>>> custom_colors
 green = "#8c7500"
 yellow = "#4e4e00"
 blue = "#2e7de9"

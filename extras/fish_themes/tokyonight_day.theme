@@ -8,7 +8,11 @@
     fish_color_redirection 474747
     fish_color_end 9e6400
     fish_color_option d20065
+<<<<<<< HEAD
     fish_color_error c50000
+=======
+    fish_color_error cf0000
+>>>>>>> custom_colors
     fish_color_param a02cff
     fish_color_comment 848cb5
     fish_color_selection --background=b7c1e3

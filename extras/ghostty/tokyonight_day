@@ -1,5 +1,9 @@
 palette = 0=#b4b5b9
+<<<<<<< HEAD
 palette = 1=#c50000
+=======
+palette = 1=#cf0000
+>>>>>>> custom_colors
 palette = 2=#8c7500
 palette = 3=#4e4e00
 palette = 4=#2e7de9
@@ -7,7 +11,11 @@ palette = 5=#d20065
 palette = 6=#006060
 palette = 7=#6172b0
 palette = 8=#a1a6c5
+<<<<<<< HEAD
 palette = 9=#dc0000
+=======
+palette = 9=#e70000
+>>>>>>> custom_colors
 palette = 10=#9b8200
 palette = 11=#5a5a00
 palette = 12=#358aff

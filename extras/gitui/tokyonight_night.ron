@@ -7,7 +7,11 @@
   cmdbar_extra_lines_bg: Some("#1a1b26"),
   disabled_fg: Some("#565f89"),
   diff_line_add: Some("#cdad00"),
+<<<<<<< HEAD
   diff_line_delete: Some("#ff4c4c"),
+=======
+  diff_line_delete: Some("#ff3c3c"),
+>>>>>>> custom_colors
   diff_file_added: Some("#00c0c0"),
   diff_file_removed: Some("#7f0000"),
   diff_file_moved: Some("#ff00ff"),
@@ -15,7 +19,11 @@
   commit_hash: Some("#ff007c"),
   commit_time: Some("#70f0e0"),
   commit_author: Some("#cdad00"),
+<<<<<<< HEAD
   danger_fg: Some("#ff4c4c"),
+=======
+  danger_fg: Some("#ff3c3c"),
+>>>>>>> custom_colors
   push_gauge_bg: Some("#1a1b26"),
   push_gauge_fg: Some("#ffffff"),
   tag_fg: Some("#ff00ff"),

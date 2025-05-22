@@ -7,7 +7,11 @@ module.exports =  {
     {
       types: ["prolog", "builtin"],
       style: {
+<<<<<<< HEAD
         color: "#c50000",
+=======
+        color: "#cf0000",
+>>>>>>> custom_colors
       },
     },
     {
