@@ -13,7 +13,7 @@ find_keyword  = { fg = "#1f2335", bg = "#ffa500", bold = true }
 find_position = { fg = "#0db9d7", bg = "#22374b", bold = true }
 
 # Marker
-marker_copied   = { fg = "#008080", bg = "#008080" }
+marker_copied   = { fg = "#00c0c0", bg = "#00c0c0" }
 marker_cut      = { fg = "#ff4c4c", bg = "#ff4c4c" }
 marker_marked   = { fg = "#ff007c", bg = "#ff007c" }
 marker_selected = { fg = "#7aa2f7", bg = "#7aa2f7" }
@@ -24,7 +24,7 @@ tab_inactive = { fg = "#3b4261", bg = "#24283b" }
 tab_width    = 1
 
 # Count
-count_copied   = { fg = "#ffffff", bg = "#008040" }
+count_copied   = { fg = "#ffffff", bg = "#00c060" }
 count_cut      = { fg = "#ffffff", bg = "#7f0000" }
 count_selected = { fg = "#ffffff", bg = "#3d59a1" }
 

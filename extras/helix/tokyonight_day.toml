@@ -16,15 +16,15 @@ constructor = { fg = "#188092" }
 "diagnostic.warning" = { underline = { style = "curl" } }
 "diff.delta" = { bg = "#d5d9e4", fg = "#9b9bff" }
 "diff.delta.moved" = { fg = "#2e7de9" }
-"diff.minus" = { bg = "#e6d8dc", fg = "#e00000" }
-"diff.plus" = { bg = "#bfd6cf", fg = "#006b00" }
+"diff.minus" = { bg = "#e6d8dc", fg = "#ff7b7b" }
+"diff.plus" = { bg = "#bfd6cf", fg = "#00c500" }
 error = { fg = "#ff9d9d" }
 function = { fg = "#2e7de9" }
 "function.builtin" = { fg = "#188092" }
 "function.macro" = { fg = "#006060" }
 "function.method" = { fg = "#2e7de9" }
 "function.special" = { fg = "#006060" }
-hint = { fg = "#1c7269" }
+hint = { fg = "#2b645d" }
 info = { fg = "#07879d" }
 keyword = { fg = "#a02cff", modifiers = ["italic"] }
 "keyword.control" = { fg = "#d20065" }
@@ -41,9 +41,9 @@ label = { fg = "#2e7de9" }
 "markup.heading.completion" = { bg = "#d2d3d7", fg = "#474747" }
 "markup.heading.hover" = { bg = "#b3b8d1" }
 "markup.italic" = { fg = "#474747", modifiers = ["italic"] }
-"markup.link" = { fg = "#1c7269" }
+"markup.link" = { fg = "#2b645d" }
 "markup.link.label" = { fg = "#188092" }
-"markup.link.text" = { fg = "#1c7269" }
+"markup.link.text" = { fg = "#2b645d" }
 "markup.link.url" = { underline = { style = "line" } }
 "markup.list" = { fg = "#006a83" }
 "markup.normal.completion" = { fg = "#848cb5" }
@@ -79,11 +79,11 @@ type = { fg = "#188092" }
 "ui.text.focus" = { bg = "#b7c1e3" }
 "ui.text.inactive" = { fg = "#848cb5", modifiers = ["italic"] }
 "ui.text.info" = { bg = "#d2d3d7", fg = "#474747" }
-"ui.virtual.inlay-hint" = { bg = "#cdd7da", fg = "#1c7269" }
+"ui.virtual.inlay-hint" = { bg = "#cfd5d9", fg = "#2b645d" }
 "ui.window" = { fg = "#b4b5b9", modifiers = ["bold"] }
 variable = { fg = "#474747" }
 "variable.builtin" = { fg = "#c50000" }
-"variable.other.member" = { fg = "#008a8a" }
+"variable.other.member" = { fg = "#008787" }
 "variable.parameter" = { fg = "#4e4e00" }
 warning = { fg = "#4e4e00" }
 
@@ -122,14 +122,14 @@ fg_dark = "#6172b0"
 fg_float = "#474747"
 fg_gutter = "#a8aecb"
 fg_sidebar = "#6172b0"
-"git.add" = "#006b00"
+"git.add" = "#00c500"
 "git.change" = "#9b9bff"
-"git.delete" = "#e00000"
+"git.delete" = "#ff7b7b"
 "git.ignore" = "#8990b3"
 green = "#8c7500"
-green1 = "#008a8a"
-green2 = "#00934a"
-hint = "#1c7269"
+green1 = "#008787"
+green2 = "#009046"
+hint = "#2b645d"
 info = "#07879d"
 magenta = "#d20065"
 magenta2 = "#f400f4"
@@ -138,14 +138,14 @@ purple = "#a02cff"
 rainbow = "#2e7de9"
 "rainbow.2" = "#4e4e00"
 "rainbow.3" = "#8c7500"
-"rainbow.4" = "#1c7269"
+"rainbow.4" = "#2b645d"
 "rainbow.5" = "#d20065"
 "rainbow.6" = "#a02cff"
 "rainbow.7" = "#9e6400"
 "rainbow.8" = "#c50000"
 red = "#c50000"
 red1 = "#ff9d9d"
-teal = "#1c7269"
+teal = "#2b645d"
 "terminal.black" = "#b4b5b9"
 "terminal.black_bright" = "#a1a6c5"
 "terminal.blue" = "#2e7de9"

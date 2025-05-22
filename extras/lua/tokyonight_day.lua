@@ -38,25 +38,25 @@ local colors = {
   fg_gutter = "#a8aecb",
   fg_sidebar = "#6172b0",
   git = {
-    add = "#006b00",
+    add = "#00c500",
     change = "#9b9bff",
-    delete = "#e00000",
+    delete = "#ff7b7b",
     ignore = "#8990b3"
   },
   green = "#8c7500",
-  green1 = "#008a8a",
-  green2 = "#00934a",
-  hint = "#1c7269",
+  green1 = "#008787",
+  green2 = "#009046",
+  hint = "#2b645d",
   info = "#07879d",
   magenta = "#d20065",
   magenta2 = "#f400f4",
   none = "NONE",
   orange = "#9e6400",
   purple = "#a02cff",
-  rainbow = { "#2e7de9", "#4e4e00", "#8c7500", "#1c7269", "#d20065", "#a02cff", "#9e6400", "#c50000" },
+  rainbow = { "#2e7de9", "#4e4e00", "#8c7500", "#2b645d", "#d20065", "#a02cff", "#9e6400", "#c50000" },
   red = "#c50000",
   red1 = "#ff9d9d",
-  teal = "#1c7269",
+  teal = "#2b645d",
   terminal = {
     black = "#b4b5b9",
     black_bright = "#a1a6c5",
@@ -93,13 +93,13 @@ local highlights = {
     fg = "#ff9d9d"
   },
   ["@comment.hint"] = {
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   ["@comment.info"] = {
     fg = "#07879d"
   },
   ["@comment.note"] = {
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   ["@comment.todo"] = {
     fg = "#2e7de9"
@@ -218,7 +218,7 @@ local highlights = {
   },
   ["@markup.heading.4.markdown"] = {
     bold = true,
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   ["@markup.heading.5.markdown"] = {
     bold = true,
@@ -240,7 +240,7 @@ local highlights = {
     italic = true
   },
   ["@markup.link"] = {
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   ["@markup.link.label"] = "SpecialChar",
   ["@markup.link.label.symbol"] = "Identifier",
@@ -249,7 +249,7 @@ local highlights = {
     fg = "#006a83"
   },
   ["@markup.list.checked"] = {
-    fg = "#008a8a"
+    fg = "#008787"
   },
   ["@markup.list.markdown"] = {
     bold = true,
@@ -285,7 +285,7 @@ local highlights = {
     fg = "#006a83"
   },
   ["@property"] = {
-    fg = "#008a8a"
+    fg = "#008787"
   },
   ["@punctuation.bracket"] = {
     fg = "#6172b0"
@@ -334,7 +334,7 @@ local highlights = {
     fg = "#c50000"
   },
   ["@variable.member"] = {
-    fg = "#008a8a"
+    fg = "#008787"
   },
   ["@variable.parameter"] = {
     fg = "#4e4e00"
@@ -421,14 +421,14 @@ local highlights = {
   BlinkCmpKindClass = "LspKindClass",
   BlinkCmpKindCodeium = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   BlinkCmpKindColor = "LspKindColor",
   BlinkCmpKindConstant = "LspKindConstant",
   BlinkCmpKindConstructor = "LspKindConstructor",
   BlinkCmpKindCopilot = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   BlinkCmpKindDefault = {
     bg = "NONE",
@@ -459,11 +459,11 @@ local highlights = {
   BlinkCmpKindStruct = "LspKindStruct",
   BlinkCmpKindSupermaven = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   BlinkCmpKindTabNine = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   BlinkCmpKindText = "LspKindText",
   BlinkCmpKindTypeParameter = "LspKindTypeParameter",
@@ -513,7 +513,7 @@ local highlights = {
   },
   BufferAlternateHINT = {
     bg = "#a8aecb",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   BufferAlternateINFO = {
     bg = "#a8aecb",
@@ -549,7 +549,7 @@ local highlights = {
   },
   BufferCurrentHINT = {
     bg = "#e1e2e7",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   BufferCurrentINFO = {
     bg = "#e1e2e7",
@@ -585,7 +585,7 @@ local highlights = {
   },
   BufferInactiveHINT = {
     bg = "#d5d8e2",
-    fg = "#438882"
+    fg = "#4f7d79"
   },
   BufferInactiveINFO = {
     bg = "#d5d8e2",
@@ -636,7 +636,7 @@ local highlights = {
   },
   BufferVisibleHINT = {
     bg = "#d2d3d7",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   BufferVisibleINFO = {
     bg = "#d2d3d7",
@@ -698,14 +698,14 @@ local highlights = {
   CmpItemKindClass = "LspKindClass",
   CmpItemKindCodeium = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   CmpItemKindColor = "LspKindColor",
   CmpItemKindConstant = "LspKindConstant",
   CmpItemKindConstructor = "LspKindConstructor",
   CmpItemKindCopilot = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   CmpItemKindDefault = {
     bg = "NONE",
@@ -736,11 +736,11 @@ local highlights = {
   CmpItemKindStruct = "LspKindStruct",
   CmpItemKindSupermaven = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   CmpItemKindTabNine = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   CmpItemKindText = "LspKindText",
   CmpItemKindTypeParameter = "LspKindTypeParameter",
@@ -851,7 +851,7 @@ local highlights = {
     fg = "#ff9d9d"
   },
   DiagnosticHint = {
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   DiagnosticInfo = {
     fg = "#07879d"
@@ -862,7 +862,7 @@ local highlights = {
     undercurl = true
   },
   DiagnosticUnderlineHint = {
-    sp = "#1c7269",
+    sp = "#2b645d",
     undercurl = true
   },
   DiagnosticUnderlineInfo = {
@@ -881,8 +881,8 @@ local highlights = {
     fg = "#ff9d9d"
   },
   DiagnosticVirtualTextHint = {
-    bg = "#cdd7da",
-    fg = "#1c7269"
+    bg = "#cfd5d9",
+    fg = "#2b645d"
   },
   DiagnosticVirtualTextInfo = {
     bg = "#cbd9e0",
@@ -987,10 +987,10 @@ local highlights = {
     fg = "#9e6400"
   },
   GitGutterAdd = {
-    fg = "#006b00"
+    fg = "#00c500"
   },
   GitGutterAddLineNr = {
-    fg = "#006b00"
+    fg = "#00c500"
   },
   GitGutterChange = {
     fg = "#9b9bff"
@@ -999,19 +999,19 @@ local highlights = {
     fg = "#9b9bff"
   },
   GitGutterDelete = {
-    fg = "#e00000"
+    fg = "#ff7b7b"
   },
   GitGutterDeleteLineNr = {
-    fg = "#e00000"
+    fg = "#ff7b7b"
   },
   GitSignsAdd = {
-    fg = "#006b00"
+    fg = "#00c500"
   },
   GitSignsChange = {
     fg = "#9b9bff"
   },
   GitSignsDelete = {
-    fg = "#e00000"
+    fg = "#ff7b7b"
   },
   GlyphPalette1 = {
     fg = "#ff9d9d"
@@ -1026,7 +1026,7 @@ local highlights = {
     fg = "#2e7de9"
   },
   GlyphPalette6 = {
-    fg = "#008a8a"
+    fg = "#008787"
   },
   GlyphPalette7 = {
     fg = "#474747"
@@ -1076,7 +1076,7 @@ local highlights = {
     bg = "#dddddb"
   },
   Headline4 = {
-    bg = "#d7dce1"
+    bg = "#d8dce0"
   },
   Headline5 = {
     bg = "#e0d7e1"
@@ -1305,12 +1305,12 @@ local highlights = {
   MiniDepsPlaceholder = "Comment",
   MiniDepsTitle = "Title",
   MiniDepsTitleError = {
-    bg = "#e00000",
+    bg = "#ff7b7b",
     fg = "#b4b5b9"
   },
   MiniDepsTitleSame = "Comment",
   MiniDepsTitleUpdate = {
-    bg = "#006b00",
+    bg = "#00c500",
     fg = "#b4b5b9"
   },
   MiniDiffOverAdd = "DiffAdd",
@@ -1318,13 +1318,13 @@ local highlights = {
   MiniDiffOverContext = "DiffChange",
   MiniDiffOverDelete = "DiffDelete",
   MiniDiffSignAdd = {
-    fg = "#006b00"
+    fg = "#00c500"
   },
   MiniDiffSignChange = {
     fg = "#9b9bff"
   },
   MiniDiffSignDelete = {
-    fg = "#e00000"
+    fg = "#ff7b7b"
   },
   MiniFilesBorder = "FloatBorder",
   MiniFilesBorderModified = "DiagnosticFloatingWarn",
@@ -1351,7 +1351,7 @@ local highlights = {
     fg = "#b4b5b9"
   },
   MiniHipatternsNote = {
-    bg = "#1c7269",
+    bg = "#2b645d",
     bold = true,
     fg = "#b4b5b9"
   },
@@ -1367,7 +1367,7 @@ local highlights = {
     fg = "#2e7de9"
   },
   MiniIconsCyan = {
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   MiniIconsGreen = {
     fg = "#8c7500"
@@ -1406,7 +1406,7 @@ local highlights = {
   },
   MiniJump2dSpotAhead = {
     bg = "#d2d3d7",
-    fg = "#1c7269",
+    fg = "#2b645d",
     nocombine = true
   },
   MiniJump2dSpotUnique = {
@@ -1426,7 +1426,7 @@ local highlights = {
   MiniPickBorderBusy = "DiagnosticFloatingWarn",
   MiniPickBorderText = {
     bg = "#d2d3d7",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   MiniPickHeader = "DiagnosticFloatingHint",
   MiniPickIconDirectory = "Directory",
@@ -1503,7 +1503,7 @@ local highlights = {
     fg = "#b4b5b9"
   },
   MiniStatuslineModeOther = {
-    bg = "#1c7269",
+    bg = "#2b645d",
     bold = true,
     fg = "#b4b5b9"
   },
@@ -1628,7 +1628,7 @@ local highlights = {
     fg = "#9e6400"
   },
   NeoTreeGitStaged = {
-    fg = "#008a8a"
+    fg = "#008787"
   },
   NeoTreeGitUntracked = {
     fg = "#d20065"
@@ -1663,7 +1663,7 @@ local highlights = {
   },
   NeogitDiffAddHighlight = {
     bg = "#bfd6cf",
-    fg = "#006b00"
+    fg = "#00c500"
   },
   NeogitDiffContextHighlight = {
     bg = "#c5c8d9",
@@ -1671,7 +1671,7 @@ local highlights = {
   },
   NeogitDiffDeleteHighlight = {
     bg = "#e6d8dc",
-    fg = "#e00000"
+    fg = "#ff7b7b"
   },
   NeogitHunkHeader = {
     bg = "#c4c8da",
@@ -1701,7 +1701,7 @@ local highlights = {
     fg = "#c50000"
   },
   NeotestFile = {
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   NeotestFocused = {
     fg = "#4e4e00"
@@ -1713,7 +1713,7 @@ local highlights = {
     fg = "#2e7de9"
   },
   NeotestNamespace = {
-    fg = "#00934a"
+    fg = "#009046"
   },
   NeotestPassed = {
     fg = "#8c7500"
@@ -1887,13 +1887,13 @@ local highlights = {
     fg = "#2e7de9"
   },
   NvimTreeGitDeleted = {
-    fg = "#e00000"
+    fg = "#ff7b7b"
   },
   NvimTreeGitDirty = {
     fg = "#9b9bff"
   },
   NvimTreeGitNew = {
-    fg = "#006b00"
+    fg = "#00c500"
   },
   NvimTreeImageFile = {
     fg = "#6172b0"
@@ -2044,11 +2044,11 @@ local highlights = {
     fg = "#8c7500"
   },
   RenderMarkdownH4Bg = {
-    bg = "#cdd7da"
+    bg = "#cfd5d9"
   },
   RenderMarkdownH4Fg = {
     bold = true,
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   RenderMarkdownH5Bg = {
     bg = "#e0cbda"
@@ -2098,11 +2098,11 @@ local highlights = {
   },
   ScrollbarHint = {
     bg = "NONE",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   ScrollbarHintHandle = {
     bg = "#c4c8da",
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   ScrollbarInfo = {
     bg = "NONE",
@@ -2186,7 +2186,7 @@ local highlights = {
     nocombine = true
   },
   SnacksIndent4 = {
-    fg = "#1c7269",
+    fg = "#2b645d",
     nocombine = true
   },
   SnacksIndent5 = {
@@ -2361,7 +2361,7 @@ local highlights = {
     undercurl = true
   },
   SpellRare = {
-    sp = "#1c7269",
+    sp = "#2b645d",
     undercurl = true
   },
   Statement = {
@@ -2471,7 +2471,7 @@ local highlights = {
   VimwikiHeader4 = {
     bg = "NONE",
     bold = true,
-    fg = "#1c7269"
+    fg = "#2b645d"
   },
   VimwikiHeader5 = {
     bg = "NONE",
@@ -2563,7 +2563,7 @@ local highlights = {
   },
   diffAdded = {
     bg = "#bfd6cf",
-    fg = "#006b00"
+    fg = "#00c500"
   },
   diffChanged = {
     bg = "#d5d9e4",
@@ -2588,14 +2588,14 @@ local highlights = {
   },
   diffRemoved = {
     bg = "#e6d8dc",
-    fg = "#e00000"
+    fg = "#ff7b7b"
   },
   dosIniLabel = "@property",
   healthError = {
     fg = "#ff9d9d"
   },
   healthSuccess = {
-    fg = "#008a8a"
+    fg = "#008787"
   },
   healthWarning = {
     fg = "#4e4e00"
