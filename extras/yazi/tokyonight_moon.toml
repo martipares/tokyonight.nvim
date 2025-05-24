@@ -14,11 +14,7 @@ find_position = { fg = "#0db9d7", bg = "#203346", bold = true }
 
 # Marker
 marker_copied   = { fg = "#00c0c0", bg = "#00c0c0" }
-<<<<<<< HEAD
-marker_cut      = { fg = "#ff4c4c", bg = "#ff4c4c" }
-=======
 marker_cut      = { fg = "#ff3c3c", bg = "#ff3c3c" }
->>>>>>> custom_colors
 marker_marked   = { fg = "#ff007c", bg = "#ff007c" }
 marker_selected = { fg = "#82aaff", bg = "#82aaff" }
 
@@ -54,20 +50,12 @@ separator_close   = ""
 # Progress
 progress_label  = { fg = "#828bb8", bold = true }
 progress_normal = { fg = "#222436" }
-<<<<<<< HEAD
-progress_error  = { fg = "#ff4c4c" }
-=======
 progress_error  = { fg = "#ff3c3c" }
->>>>>>> custom_colors
 
 # Permissions
 perm_type  = { fg = "#82aaff" }
 perm_read  = { fg = "#ffff00" }
-<<<<<<< HEAD
-perm_write = { fg = "#ff4c4c" }
-=======
 perm_write = { fg = "#ff3c3c" }
->>>>>>> custom_colors
 perm_exec  = { fg = "#cdad00" }
 perm_sep   = { fg = "#444a73" }
 
@@ -107,7 +95,7 @@ cand            = { fg = "#00ffff" }
 rest            = { fg = "#82aaff" }
 desc            = { fg = "#ff007c" }
 separator       = " ➜ "
-separator_style = { fg = "#636da6" }
+separator_style = { fg = "#a1a7c9" }
 
 # Confirm
 [confirm]
@@ -151,29 +139,17 @@ rules = [
 	{ mime = "{audio,video}/*", fg = "#ff007c" },
 
 	# Archives
-<<<<<<< HEAD
-	{ mime = "application/*zip", fg = "#ff4c4c" },
-	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#ff4c4c" },
-=======
 	{ mime = "application/*zip", fg = "#ff3c3c" },
 	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#ff3c3c" },
->>>>>>> custom_colors
 
 	# Documents
 	{ mime = "application/{pdf,doc,rtf,vnd.*}", fg = "#00ffff" },
 
 	# Empty files
-<<<<<<< HEAD
-	# { mime = "inode/x-empty", fg = "#ff4c4c" },
-
-	# Special files
-	{ name = "*", is = "orphan", bg = "#ff4c4c" },
-=======
 	# { mime = "inode/x-empty", fg = "#ff3c3c" },
 
 	# Special files
 	{ name = "*", is = "orphan", bg = "#ff3c3c" },
->>>>>>> custom_colors
 	{ name = "*", is = "exec"  , fg = "#cdad00" },
 
 	# Fallback

@@ -7,11 +7,7 @@ module.exports =  {
     {
       types: ["prolog", "builtin"],
       style: {
-<<<<<<< HEAD
-        color: "#ff4c4c",
-=======
         color: "#ff3c3c",
->>>>>>> custom_colors
       },
     },
     {
@@ -65,7 +61,7 @@ module.exports =  {
     {
       types: ["comment"],
       style: {
-        color: "#636da6",
+        color: "#a1a7c9",
         fontStyle: "italic",
       },
     },

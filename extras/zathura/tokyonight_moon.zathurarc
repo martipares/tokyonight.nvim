@@ -3,11 +3,7 @@
 #
 # Tokyonight color theme
 #
-<<<<<<< HEAD
-set notification-error-bg "#ff4c4c"
-=======
 set notification-error-bg "#ff3c3c"
->>>>>>> custom_colors
 set notification-error-fg "#ffffff"
 set notification-warning-bg "#ffff00"
 set notification-warning-fg "#444a73"

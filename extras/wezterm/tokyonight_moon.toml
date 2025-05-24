@@ -10,13 +10,8 @@ split = "#82aaff"
 compose_cursor = "#ffa500"
 scrollbar_thumb = "#2f334d"
 
-<<<<<<< HEAD
-ansi = ["#1b1d2b", "#ff4c4c", "#cdad00", "#ffff00", "#82aaff", "#ff007c", "#00ffff", "#828bb8"]
-brights = ["#444a73", "#ff6a6a", "#ddba00", "#ffffff", "#9ab8ff", "#ff498a", "#c3ffff", "#ffffff"]
-=======
 ansi = ["#1b1d2b", "#ff3c3c", "#cdad00", "#ffff00", "#82aaff", "#ff007c", "#00ffff", "#828bb8"]
 brights = ["#444a73", "#ff5f5f", "#ddba00", "#ffffff", "#9ab8ff", "#ff498a", "#c3ffff", "#ffffff"]
->>>>>>> custom_colors
 
 [colors.tab_bar]
 inactive_tab_edge = "#1e2030"
@@ -27,7 +22,7 @@ fg_color = "#1e2030"
 bg_color = "#82aaff"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#545c7e"
+fg_color = "#989db1"
 bg_color = "#2f334d"
 
 [colors.tab_bar.inactive_tab_hover]

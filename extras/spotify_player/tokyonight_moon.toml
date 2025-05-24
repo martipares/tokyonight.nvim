@@ -4,11 +4,7 @@ name = "Tokyo Night Moon"
 background = "#1e2030"
 foreground = "#828bb8"
 black = "#444a73"
-<<<<<<< HEAD
-red = "#ff4c4c"
-=======
 red = "#ff3c3c"
->>>>>>> custom_colors
 green = "#cdad00"
 yellow = "#ffff00"
 blue = "#82aaff"

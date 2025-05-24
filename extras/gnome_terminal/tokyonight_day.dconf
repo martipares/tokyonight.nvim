@@ -13,10 +13,6 @@ foreground-color='rgb(71, 71, 71)'
 highlight-background-color='rgb(71, 71, 71)'
 highlight-colors-set=true
 highlight-foreground-color='rgb(225, 226, 231)'
-<<<<<<< HEAD
-palette=['rgb(161, 166, 197)', 'rgb(197, 0, 0)', 'rgb(140, 117, 0)', 'rgb(78, 78, 0)', 'rgb(46, 125, 233)', 'rgb(210, 0, 101)', 'rgb(0, 96, 96)', 'rgb(71, 71, 71)', 'rgb(161, 166, 197)', 'rgb(197, 0, 0)', 'rgb(140, 117, 0)', 'rgb(78, 78, 0)', 'rgb(46, 125, 233)', 'rgb(210, 0, 101)', 'rgb(0, 96, 96)', 'rgb(71, 71, 71)']
-=======
 palette=['rgb(161, 166, 197)', 'rgb(207, 0, 0)', 'rgb(140, 117, 0)', 'rgb(78, 78, 0)', 'rgb(46, 125, 233)', 'rgb(210, 0, 101)', 'rgb(0, 96, 96)', 'rgb(71, 71, 71)', 'rgb(161, 166, 197)', 'rgb(207, 0, 0)', 'rgb(140, 117, 0)', 'rgb(78, 78, 0)', 'rgb(46, 125, 233)', 'rgb(210, 0, 101)', 'rgb(0, 96, 96)', 'rgb(71, 71, 71)']
->>>>>>> custom_colors
 use-theme-colors=false
 visible-name='Tokyo Night Day'

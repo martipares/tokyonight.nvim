@@ -16,11 +16,7 @@ foreground = '#474747'
 # Normal colors
 [colors.normal]
 black = '#b4b5b9'
-<<<<<<< HEAD
-red = '#c50000'
-=======
 red = '#cf0000'
->>>>>>> custom_colors
 green = '#8c7500'
 yellow = '#4e4e00'
 blue = '#2e7de9'
@@ -31,11 +27,7 @@ white = '#6172b0'
 # Bright colors
 [colors.bright]
 black = '#a1a6c5'
-<<<<<<< HEAD
-red = '#dc0000'
-=======
 red = '#e70000'
->>>>>>> custom_colors
 green = '#9b8200'
 yellow = '#5a5a00'
 blue = '#358aff'

@@ -26,11 +26,7 @@
 		<key>Green Component</key>
 		<real>0.0000000000000000</real>
 		<key>Red Component</key>
-<<<<<<< HEAD
-		<real>0.7725490196078432</real>
-=======
 		<real>0.8117647058823529</real>
->>>>>>> custom_colors
 	</dict>
 	<key>Ansi 10 Color</key>
 	<dict>
@@ -212,11 +208,7 @@
 		<key>Green Component</key>
 		<real>0.0000000000000000</real>
 		<key>Red Component</key>
-<<<<<<< HEAD
-		<real>0.7725490196078432</real>
-=======
 		<real>0.8117647058823529</real>
->>>>>>> custom_colors
 	</dict>
 	<key>Background Color</key>
 	<dict>

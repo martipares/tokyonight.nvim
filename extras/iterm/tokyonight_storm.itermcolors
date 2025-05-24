@@ -20,19 +20,11 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-<<<<<<< HEAD
-		<real>0.2980392156862745</real>
-		<key>Color Space</key>
-		<string>sRGB</string>
-		<key>Green Component</key>
-		<real>0.2980392156862745</real>
-=======
 		<real>0.2352941176470588</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
 		<real>0.2352941176470588</real>
->>>>>>> custom_colors
 		<key>Red Component</key>
 		<real>1.0000000000000000</real>
 	</dict>
@@ -210,19 +202,11 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-<<<<<<< HEAD
-		<real>0.2980392156862745</real>
-		<key>Color Space</key>
-		<string>sRGB</string>
-		<key>Green Component</key>
-		<real>0.2980392156862745</real>
-=======
 		<real>0.2352941176470588</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
 		<real>0.2352941176470588</real>
->>>>>>> custom_colors
 		<key>Red Component</key>
 		<real>1.0000000000000000</real>
 	</dict>

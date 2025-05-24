@@ -8,23 +8,19 @@
     fish_color_redirection 474747
     fish_color_end 9e6400
     fish_color_option d20065
-<<<<<<< HEAD
-    fish_color_error c50000
-=======
     fish_color_error cf0000
->>>>>>> custom_colors
     fish_color_param a02cff
-    fish_color_comment 848cb5
+    fish_color_comment 7880a0
     fish_color_selection --background=b7c1e3
     fish_color_search_match --background=b7c1e3
     fish_color_operator 8c7500
     fish_color_escape d20065
-    fish_color_autosuggestion 848cb5
+    fish_color_autosuggestion 7880a0
 
     # Completion Pager Colors
-    fish_pager_color_progress 848cb5
+    fish_pager_color_progress 7880a0
     fish_pager_color_prefix 006060
     fish_pager_color_completion 474747
-    fish_pager_color_description 848cb5
+    fish_pager_color_description 7880a0
     fish_pager_color_selected_background --background=b7c1e3
   

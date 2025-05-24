@@ -1,12 +1,8 @@
     # TokyoNight Color Palette
     set -l foreground 474747
     set -l selection b7c1e3
-    set -l comment 848cb5
-<<<<<<< HEAD
-    set -l red c50000
-=======
+    set -l comment 7880a0
     set -l red cf0000
->>>>>>> custom_colors
     set -l orange 9e6400
     set -l yellow 4e4e00
     set -l green 8c7500

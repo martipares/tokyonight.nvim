@@ -13,7 +13,7 @@ style:
   proc_table:
     fgColor: '#2e7de9'
     fgWarning: '#4e4e00'
-    fgPending: '#8990b3'
+    fgPending: '#7b829b'
     fgCompleted: '#8c7500'
     fgError: '#ff9d9d'
     headerFgColor: '#474747'

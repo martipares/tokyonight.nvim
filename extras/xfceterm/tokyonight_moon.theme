@@ -6,8 +6,4 @@ ColorForeground=#ffffff
 ColorSelectionBackground=#2d3f76
 ColorSelection=#ffffff
 
-<<<<<<< HEAD
-ColorPalette=#1b1d2b;#ff4c4c;#cdad00;#ffff00;#82aaff;#ff007c;#00ffff;#828bb8;#444a73;#ff4c4c;#cdad00;#ffff00;#82aaff;#ff007c;#00ffff;#ffffff
-=======
 ColorPalette=#1b1d2b;#ff3c3c;#cdad00;#ffff00;#82aaff;#ff007c;#00ffff;#828bb8;#444a73;#ff3c3c;#cdad00;#ffff00;#82aaff;#ff007c;#00ffff;#ffffff
->>>>>>> custom_colors

@@ -4,11 +4,7 @@ name = "Tokyo Night"
 background = "#16161e"
 foreground = "#a9b1d6"
 black = "#414868"
-<<<<<<< HEAD
-red = "#ff4c4c"
-=======
 red = "#ff3c3c"
->>>>>>> custom_colors
 green = "#cdad00"
 yellow = "#ffff00"
 blue = "#7aa2f7"

@@ -8,11 +8,7 @@
   --text-link-low-saturation: #89ddff;
   --text-positive: #70f0e0;
   --text-warning: #ffff00;
-<<<<<<< HEAD
-  --text-danger: #ff4c4c;
-=======
   --text-danger: #ff3c3c;
->>>>>>> custom_colors
   --text-brand: #7aa2f7;
   --background-primary: #1a1b26;
   --bg-base-primary: #1a1b26;
@@ -30,10 +26,10 @@
   --chat-background: #1a1b26;
   --chat-border: #292e42;
   --chat-input-container-background: #1a1b26;
-  --background-modifier-hover: #545c7e26;
-  --background-modifier-selected: #545c7e32;
-  --background-modifier-accent: #545c7e42;
-  --background-modifier-active: #545c7e2B;
+  --background-modifier-hover: #989db126;
+  --background-modifier-selected: #989db132;
+  --background-modifier-accent: #989db142;
+  --background-modifier-active: #989db12B;
   --info-positive-background: #cdad0026;
   --info-positive-foreground: #70f0e0;
   --info-positive-text: #ffffff;
@@ -42,13 +38,8 @@
   --info-warning-background: #ffff0026;
   --info-warning-foreground: #ffff00;
   --info-warning-text: #ffffff;
-<<<<<<< HEAD
-  --info-danger-background:#ff4c4c26;
-  --info-danger-foreground: #ff4c4c;
-=======
   --info-danger-background:#ff3c3c26;
   --info-danger-foreground: #ff3c3c;
->>>>>>> custom_colors
   --info-danger-text: #ffffff;
   --info-help-background: #89ddff26;
   --info-help-foreground: #0db9d7;
@@ -57,41 +48,26 @@
   --status-positive-text: #1a1b26;
   --status-warning-background: #ffff00;
   --status-warning-text: #1a1b26;
-<<<<<<< HEAD
-  --status-danger-background: #ff4c4c;
-  --status-danger-text: #1a1b26;
-  --status-danger: #ff4c4c;
-=======
   --status-danger-background: #ff3c3c;
   --status-danger-text: #1a1b26;
   --status-danger: #ff3c3c;
->>>>>>> custom_colors
   --status-positive: #70f0e0;
   --status-warning: #ffff00;
   --status-yellow-400: #ffff00;
   --status-green-600: #70f0e0;
   --primary-dark-600: #1a1b26;
   --status-yellow-560: #ffff00;
-<<<<<<< HEAD
-  --status-red-500: #ff4c4c;
-  --status-red-530: #ff4c4c;
-=======
   --status-red-500: #ff3c3c;
   --status-red-530: #ff3c3c;
->>>>>>> custom_colors
   --status-yellow-500: #ffff00;
   --black-500: #292e42;
   --green-360: #70f0e0;
   --yellow-360: #ffff00;
   --yellow-300: #ffff00;
-<<<<<<< HEAD
-  --red-400: #ff4c4c;
-=======
   --red-400: #ff3c3c;
->>>>>>> custom_colors
-  --primary-100: #737aa2;
-  --primary-300: #737aa2;
-  --primary-400: #737aa2;
+  --primary-100: #abafc7;
+  --primary-300: #abafc7;
+  --primary-400: #abafc7;
   --primary-dark-700: #292e42;
   --primary-800: #292e42;
   --status-green-560: #70f0e0;
@@ -108,35 +84,23 @@
   --premium-perk-orange: #ffa500;
   --status-green-400: #70f0e0;
   --button-danger-background: #7f0000;
-<<<<<<< HEAD
-  --button-danger-background-hover: #ff4c4c;
-  --button-danger-background-active: #89ddff;
-  --button-danger-background-disabled: #ff4c4c;
-=======
   --button-danger-background-hover: #ff3c3c;
   --button-danger-background-active: #89ddff;
   --button-danger-background-disabled: #ff3c3c;
->>>>>>> custom_colors
   --button-positive-background: #70f0e0;
   --button-positive-background-hover: #00c0c0;
   --button-positive-background-active: #00c060;
   --button-positive-background-disabled: #70f0e0;
-  --button-secondary-background: #545c7e;
+  --button-secondary-background: #989db1;
   --button-secondary-background-hover: #3b4261;
   --button-secondary-background-active: #3b4261;
-  --button-secondary-background-disabled: #737aa2;
+  --button-secondary-background-disabled: #abafc7;
   --button-outline-danger-text: #ffffff;
   --button-outline-danger-border: #7f0000;
   --button-outline-danger-background: transparent;
-<<<<<<< HEAD
-  --button-outline-danger-background-hover: #ff4c4c;
-  --button-outline-danger-text-hover: #1a1b26;
-  --button-outline-danger-border-hover: #ff4c4c;
-=======
   --button-outline-danger-background-hover: #ff3c3c;
   --button-outline-danger-text-hover: #1a1b26;
   --button-outline-danger-border-hover: #ff3c3c;
->>>>>>> custom_colors
   --button-outline-danger-background-active: #7f0000;
   --button-outline-danger-text-active: #1a1b26;
   --button-outline-danger-border-active: #7f0000;
@@ -159,14 +123,14 @@
   --button-outline-brand-text-active: #1a1b26;
   --button-outline-brand-border-active: #2ac3de;
   --button-outline-primary-text: #ffffff;
-  --button-outline-primary-border: #545c7e;
+  --button-outline-primary-border: #989db1;
   --button-outline-primary-background: transparent;
-  --button-outline-primary-background-hover: #545c7e;
+  --button-outline-primary-background-hover: #989db1;
   --button-outline-primary-text-hover: #1a1b26;
-  --button-outline-primary-border-hover: #545c7e;
-  --button-outline-primary-background-active: #545c7e;
+  --button-outline-primary-border-hover: #989db1;
+  --button-outline-primary-background-active: #989db1;
   --button-outline-primary-text-active: #1a1b26;
-  --button-outline-primary-border-active: #545c7e;
+  --button-outline-primary-border-active: #989db1;
   --modal-background: #1a1b26;
   --modal-footer-background: #292e42;
   --scrollbar-thin-thumb: #7aa2f7;
@@ -176,7 +140,7 @@
   --scrollbar-auto-scrollbar-color-thumb: #7aa2f7;
   --scrollbar-auto-scrollbar-color-track: #292e42;
   --input-background: #292e42;
-  --input-placeholder-text: #737aa2;
+  --input-placeholder-text: #abafc7;
   --logo-primary: #ffffff;
   --control-brand-foreground: #7aa2f7;
   --control-brand-foreground-new: #7aa2f7;
@@ -191,19 +155,19 @@
   --background-message-highlight-hover: #7aa2f70F;
   --channels-default: #a9b1d6;
   --channel-icon: #7aa2f799;
-  --channel-text-area-placeholder: #545c7e7F;
+  --channel-text-area-placeholder: #989db17F;
   --channeltextarea-background: #16161e;
   --activity-card-background: #292e42;
   --textbox-markdown-syntax: #ffffff;
   --spoiler-revealed-background: #292e42;
-  --spoiler-hidden-background: #565f89;
+  --spoiler-hidden-background: #999fb8;
   --android-navigation-bar-background: #292e42;
   --android-ripple: #15161e4C;
   --bg-mod-faint: #16161e;
   --bg-mod-subtle: #414868;
   --focus-primary: #7aa2f7;
   --interactive-normal: #ffffff;
-  --interactive-muted: #545c7e4C;
+  --interactive-muted: #989db14C;
   --interactive-hover: #ffffff;
   --interactive-active: #ffffff;
   --search-popout-option-non-text-color: #a9b1d6;
@@ -233,7 +197,7 @@ rect[mask="url(#svg-mask-status-dnd)"] {
 }
 
 rect[mask="url(#svg-mask-status-offline)"] {
-    fill: #737aa2;
+    fill: #abafc7;
 }
 
 /* hljs */
@@ -242,11 +206,7 @@ rect[mask="url(#svg-mask-status-offline)"] {
   /* ---- Default Colors -- */
   --background: var(--background-secondary);
   --text-default: #a9b1d6;
-<<<<<<< HEAD
-  --color-1: #ff4c4c;
-=======
   --color-1: #ff3c3c;
->>>>>>> custom_colors
   --color-2: #ffa500;
   --color-3: #ffff00;
   --color-4: #cdad00;
@@ -293,7 +253,7 @@ rect[mask="url(#svg-mask-status-offline)"] {
   --hljs-params: var(--text-default);
   --hljs-params-attr: var(--hljs-params);
   /* --> Comment */
-  --hljs-comment: #565f89;
+  --hljs-comment: #999fb8;
   --hljs-comment-doctag: var(--hljs-comment);
   /* --> String */
   --hljs-string: var(--color-4);

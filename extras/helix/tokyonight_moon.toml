@@ -1,5 +1,5 @@
 attribute = { fg = "#00ffff" }
-comment = { fg = "#636da6", modifiers = ["italic"] }
+comment = { fg = "#a1a7c9", modifiers = ["italic"] }
 "comment.block.documentation" = { fg = "#ffff00" }
 constant = { fg = "#ffa500" }
 "constant.builtin" = { fg = "#65bcff" }
@@ -16,11 +16,7 @@ constructor = { fg = "#65bcff" }
 "diagnostic.warning" = { underline = { style = "curl" } }
 "diff.delta" = { bg = "#252a3f", fg = "#0000ff" }
 "diff.delta.moved" = { fg = "#82aaff" }
-<<<<<<< HEAD
-"diff.minus" = { bg = "#301f2e", fg = "#a00000" }
-=======
 "diff.minus" = { bg = "#301f2e", fg = "#aa0000" }
->>>>>>> custom_colors
 "diff.plus" = { bg = "#1d3b3c", fg = "#005500" }
 error = { fg = "#7f0000" }
 function = { fg = "#82aaff" }
@@ -50,7 +46,7 @@ label = { fg = "#82aaff" }
 "markup.link.text" = { fg = "#70f0e0" }
 "markup.link.url" = { underline = { style = "line" } }
 "markup.list" = { fg = "#89ddff" }
-"markup.normal.completion" = { fg = "#636da6" }
+"markup.normal.completion" = { fg = "#a1a7c9" }
 "markup.normal.hover" = { fg = "#828bb8" }
 "markup.raw" = { fg = "#cdad00" }
 "markup.raw.inline" = { bg = "#444a73", fg = "#82aaff" }
@@ -81,16 +77,12 @@ type = { fg = "#65bcff" }
 "ui.statusline.normal" = { bg = "blue", fg = "black" }
 "ui.text" = { bg = "#222436", fg = "#ffffff" }
 "ui.text.focus" = { bg = "#2d3f76" }
-"ui.text.inactive" = { fg = "#636da6", modifiers = ["italic"] }
+"ui.text.inactive" = { fg = "#a1a7c9", modifiers = ["italic"] }
 "ui.text.info" = { bg = "#1e2030", fg = "#ffffff" }
 "ui.virtual.inlay-hint" = { bg = "#2a3847", fg = "#70f0e0" }
 "ui.window" = { fg = "#1b1d2b", modifiers = ["bold"] }
 variable = { fg = "#ffffff" }
-<<<<<<< HEAD
-"variable.builtin" = { fg = "#ff4c4c" }
-=======
 "variable.builtin" = { fg = "#ff3c3c" }
->>>>>>> custom_colors
 "variable.other.member" = { fg = "#00c0c0" }
 "variable.parameter" = { fg = "#ffff00" }
 warning = { fg = "#ffff00" }
@@ -116,10 +108,10 @@ blue6 = "#b4f9f8"
 blue7 = "#394b70"
 border = "#1b1d2b"
 border_highlight = "#589ed7"
-comment = "#636da6"
+comment = "#a1a7c9"
 cyan = "#00ffff"
-dark3 = "#545c7e"
-dark5 = "#737aa2"
+dark3 = "#989db1"
+dark5 = "#abafc7"
 "diff.add" = "#1d3b3c"
 "diff.change" = "#252a3f"
 "diff.delete" = "#301f2e"
@@ -132,12 +124,8 @@ fg_gutter = "#3b4261"
 fg_sidebar = "#828bb8"
 "git.add" = "#005500"
 "git.change" = "#0000ff"
-<<<<<<< HEAD
-"git.delete" = "#a00000"
-=======
 "git.delete" = "#aa0000"
->>>>>>> custom_colors
-"git.ignore" = "#545c7e"
+"git.ignore" = "#989db1"
 green = "#cdad00"
 green1 = "#00c0c0"
 green2 = "#00c060"
@@ -154,13 +142,8 @@ rainbow = "#82aaff"
 "rainbow.5" = "#ff007c"
 "rainbow.6" = "#a64cff"
 "rainbow.7" = "#ffa500"
-<<<<<<< HEAD
-"rainbow.8" = "#ff4c4c"
-red = "#ff4c4c"
-=======
 "rainbow.8" = "#ff3c3c"
 red = "#ff3c3c"
->>>>>>> custom_colors
 red1 = "#7f0000"
 teal = "#70f0e0"
 "terminal.black" = "#1b1d2b"
@@ -173,13 +156,8 @@ teal = "#70f0e0"
 "terminal.green_bright" = "#ddba00"
 "terminal.magenta" = "#ff007c"
 "terminal.magenta_bright" = "#ff498a"
-<<<<<<< HEAD
-"terminal.red" = "#ff4c4c"
-"terminal.red_bright" = "#ff6a6a"
-=======
 "terminal.red" = "#ff3c3c"
 "terminal.red_bright" = "#ff5f5f"
->>>>>>> custom_colors
 "terminal.white" = "#828bb8"
 "terminal.white_bright" = "#ffffff"
 "terminal.yellow" = "#ffff00"

@@ -67,7 +67,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#565f89</string>
+				<string>#999fb8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -78,7 +78,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#565f89</string>
+				<string>#999fb8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -176,11 +176,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -237,11 +233,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -307,11 +299,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -454,11 +442,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -469,11 +453,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -728,11 +708,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -754,11 +730,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -835,11 +807,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#a00000</string>
-=======
 				<string>#aa0000</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -872,11 +840,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -953,11 +917,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -1045,11 +1005,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
@@ -1388,11 +1344,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-<<<<<<< HEAD
-				<string>#ff4c4c</string>
-=======
 				<string>#ff3c3c</string>
->>>>>>> custom_colors
 			</dict>
 		</dict>
 		<dict>
