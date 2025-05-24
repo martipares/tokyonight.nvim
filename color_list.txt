@@ -12,3 +12,54 @@
 "#7f0000" red dark
 "#ff4c4c" red light
 "#40e0d0" turquoise
+
+moon comment = "#636da6",
+#636da6
+#727bae
+#828ab7
+#9198c0
+#a1a7c9
+#b1b6d2
+#c0c4db
+#d0d3e4
+#dfe1ed
+#eff0f6
+#ffffff
+storm comment = "#565f89",
+#565f89
+#666f94
+#777ea0
+#888fac
+#999fb8
+#aaafc4
+#bbbfcf
+#cccfdb
+#dddfe7
+#eeeff3
+#ffffff
+dark3 = "#545c7e",
+#545c7e
+#656c8a
+#767c97
+#878ca4
+#989db1
+#a9adbe
+#babdcb
+#cbced8
+#dcdee5
+#edeef2
+#ffffff
+dark5 = "#737aa2",
+#737aa2
+#8187ab
+#8f94b4
+#9da1bd
+#abafc7
+#b9bcd0
+#c7c9d9
+#d5d7e3
+#e3e4ec
+#f1f1f5
+#ffffff
+
+
