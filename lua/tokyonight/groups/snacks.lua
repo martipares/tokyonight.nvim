@@ -30,11 +30,11 @@ function M.get(c, opts)
     SnacksNotifierTitleWarn   = { fg = c.warning },
     -- Dashboard
     SnacksDashboardDesc       = { fg = c.cyan },
-    SnacksDashboardFooter     = { fg = c.blue1 },
-    SnacksDashboardHeader     = { fg = c.blue },
-    SnacksDashboardIcon       = { fg = c.blue1 },
-    SnacksDashboardKey        = { fg = c.orange },
-    SnacksDashboardSpecial    = { fg = c.purple },
+    SnacksDashboardFooter     = { fg = c.cyan },
+    SnacksDashboardHeader     = { fg = c.fg },
+    SnacksDashboardIcon       = { fg = c.fg },
+    SnacksDashboardKey        = { fg = c.yellow },
+    SnacksDashboardSpecial    = { fg = c.magenta },
     SnacksDashboardDir        = { fg = c.dark3 },
     -- Profiler
     SnacksProfilerIconInfo    = { bg = Util.blend_bg(c.blue1, 0.3), fg = c.blue1 },
